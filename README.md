@@ -83,8 +83,8 @@ My long-term goal is to grow as a developer and eventually pursue a career in **
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=AAAAAA&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=D4AF37&text_color=AAAAAA" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NickBiston&show_icons=true&theme=transparent&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=AAAAAA&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickBiston&layout=compact&theme=transparent&hide_border=true&title_color=D4AF37&text_color=AAAAAA" />
 </p>
 
 <p align="center">
