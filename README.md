@@ -88,7 +88,7 @@ My long-term goal is to grow as a developer and eventually pursue a career in **
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=transparent&hide_border=true&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=NickBiston&theme=transparent&hide_border=true&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" width="70%" />
 </p>
 
 ---
