@@ -3,7 +3,7 @@
 ### 💻 Junior Developer | ADS Student | Technology Enthusiast
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:171717,50:CAAC35,100:F5D76E&height=180&section=header&text=Nick%20Ashbourne&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:171717,50:CAAC35,100:F5D76E&height=180&section=header&text=Nicolas%20Cavalcante&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%" />
 </p>
 
 <p align="center">
